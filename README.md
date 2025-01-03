@@ -1,6 +1,6 @@
 ## Hi 👋 Welcome to my page
 - 🎓 I'm Master Student in POSTECH
-- 💻 I'm currently reserach on **Insurance and Risk management** based on **actuarial science and statistics**
+- 💻 I'm currently research on **Insurance and Risk management** based on **actuarial science and statistics**
 - 🌐 https://kwoongbae.github.io/
 
 <!--
