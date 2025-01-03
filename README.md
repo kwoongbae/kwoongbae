@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi 👋 Welcome to my page
+🎓 - I'm Master Student in POSTECH
+💻 - I'm interested in Insurance and Risk management
 
 <!--
 **kwoongbae/kwoongbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
