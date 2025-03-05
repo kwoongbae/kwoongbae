@@ -3,9 +3,8 @@
 - 💻 I'm currently research on **Insurance and Risk management** based on **actuarial science and statistics**
 - 🌐 https://kwoongbae.github.io/
 
-Main Language: [![My Skills](https://skillicons.dev/icons?i=py,r,cpp)](https://skillicons.dev)
-
-Main AI Framework: [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch)](https://skillicons.dev)
+<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
+<img src="https://img.shields.io/badge/Ruby-CC342D?logo=Ruby">
 
 <!--
 **kwoongbae/kwoongbae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
