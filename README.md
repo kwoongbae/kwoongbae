@@ -5,11 +5,12 @@
 
 ## Stacks
 
-
-
 | Programming               | <img src="https://img.shields.io/badge/python-3776AB?logo=python"> <img src="https://img.shields.io/badge/R-276DC3?logo=R"> <img src="https://img.shields.io/badge/C++-00599C?logo=C++"> |
+| ------------------------- | ------------------------------------------------------------ |
 | AI Framework              | <img src="https://img.shields.io/badge/tensorflow-FF6F00?logo=tensorflow"> <img src="https://img.shields.io/badge/pytorch-EE4C2C?logo=pytorch"> |
 | Web Development Framework | <img src="https://img.shields.io/badge/springboot-6DB33F?logo=springboot"> <img src="https://img.shields.io/badge/postgresql-4169E1?logo=postgresql"> |
+
+
 
 
 
